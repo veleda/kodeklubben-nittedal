@@ -1,0 +1,11 @@
+Oppgaver for spill i Processing 29. mai 2018
+----------------------------------------------
+
+1. Fargelegge veggen, ballen og plata slik du vil ha de.
+	TIPS: hvis du ikke vil ha kant rundt figurene, finnes en metode som heter noStroke().
+
+2. Fullføre steget for å resette spillet i den siste if-setningen. Her skal alle globale verdier settes til sin opprinnelige verdi.
+
+3. Skriv ut variabelen antallTreffPaPlate i metoden visTeller() slik at du får en teller som øker hver gang ballen treffer plata.
+
+4. Minst plata for hvert treff, slik at spillet blir vanskeligere. 
